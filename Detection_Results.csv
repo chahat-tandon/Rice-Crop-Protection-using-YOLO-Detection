@@ -1,0 +1,10 @@
+image,image_path,xmin,ymin,xmax,ymax,label,confidence,x_size,y_size
+IMG_2990.jpg,C:\Users\chaha\Desktop\yolo\yolo_structure\Data\Source_Images\Test_Images\IMG_2990.jpg,0,269,1881,1561,0,0.2805081903934479,1881,1881
+IMG_3002.jpg,C:\Users\chaha\Desktop\yolo\yolo_structure\Data\Source_Images\Test_Images\IMG_3002.jpg,51,351,1816,1562,2,0.32930782437324524,1881,1881
+IMG_3002.jpg,C:\Users\chaha\Desktop\yolo\yolo_structure\Data\Source_Images\Test_Images\IMG_3002.jpg,0,537,1877,1596,1,0.32504773139953613,1881,1881
+IMG_3004.jpg,C:\Users\chaha\Desktop\yolo\yolo_structure\Data\Source_Images\Test_Images\IMG_3004.jpg,134,167,1717,1160,2,0.3436383605003357,1881,1881
+IMG_3004.jpg,C:\Users\chaha\Desktop\yolo\yolo_structure\Data\Source_Images\Test_Images\IMG_3004.jpg,142,145,1708,1421,1,0.3582143783569336,1881,1881
+IMG_3004.jpg,C:\Users\chaha\Desktop\yolo\yolo_structure\Data\Source_Images\Test_Images\IMG_3004.jpg,258,169,1604,1647,0,0.465329110622406,1881,1881
+IMG_3119.jpg,C:\Users\chaha\Desktop\yolo\yolo_structure\Data\Source_Images\Test_Images\IMG_3119.jpg,87,245,1760,1577,0,0.558316707611084,1881,1880
+IMG_3123.jpg,C:\Users\chaha\Desktop\yolo\yolo_structure\Data\Source_Images\Test_Images\IMG_3123.jpg,0,283,1881,1542,2,0.3002189099788666,1881,1881
+IMG_3123.jpg,C:\Users\chaha\Desktop\yolo\yolo_structure\Data\Source_Images\Test_Images\IMG_3123.jpg,0,283,1881,1542,0,0.5565590262413025,1881,1881
